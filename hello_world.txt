@@ -1,1 +1,2 @@
-Hey there I have created this file using commands in wsl ie ubuntu
+Hey there I have created this file using commands in wsl ie ubuntu.
+Interesting i wish to complete my foundations early.
